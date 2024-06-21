@@ -1,7 +1,7 @@
 # SISTEMA AUTOMATIZADO DE CIRCULAÇÃO E PURIFICAÇÃO DO AR - PROTÓTIPO
 O algorítimo a seguir tem como objetivo principal simular o funcionamento do sistema em um protótipo. 
 ## CIRCUITO
-
+![texto](/image.png)
 
 
 ## ALGORÍTIMO
